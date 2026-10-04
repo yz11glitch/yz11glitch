@@ -30,4 +30,4 @@ AI tools support my planning, implementation, debugging and review. I independen
 
 ## Contact
 
-[GitHub](https://github.com/yz11glitch). [LinkedIn](https://www.linkedin.com/in/yee-zhen-tan-b10964274/) and [Portfolio](https://yee-zhen-tan.vercel.app/) links will be added when available.
+[GitHub](https://github.com/yz11glitch). [LinkedIn](https://www.linkedin.com/in/yee-zhen-tan-b10964274/) and [Portfolio](https://yee-zhen-tan.vercel.app/)
